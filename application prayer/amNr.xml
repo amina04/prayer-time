@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Anguilla"></country>
+                  <country name="Bahamas"></country>
+                  <country name="Barbados"></country>
+	<country name="Belize"></country>
+	<country name="Bermuda"></country>
+	<country name="British Virgin Islands"></country>
+	<country name="Canada"></country>
+	<country name="Cayman Islands"></country>
+	<country name="Costa Rica"></country>
+	<country name="Cuba"></country>
+	<country name="Dominica"></country>
+	<country name="Dominican Republic"></country>
+	<country name="El Salvador"></country>
+	<country name="Greenland"></country>
+	<country name="Grenada"></country>
+	<country name="Guadeloupe"></country>
+	<country name="Guatemala"></country>
+	<country name="Haiti"></country>
+	<country name="Honduras"></country>
+	<country name="Jamaica"></country>
+	<country name="Martinique"></country>
+	<country name="Montserrat"></country>
+	<country name="Nicaragua"></country>
+	<country name="Panama"></country>
+	<country name="Puerto Rico"></country>
+	<country name="Saint Kitts Nevis"></country>
+	<country name="Saint Lucia"></country>
+	<country name="Saint Pierre Miquelon"></country>
+	<country name="Saint Vincent Grenadines"></country>
+	<country name="Turks Caicos Islands"></country>
+	<country name="Usa"></country>
+	<country name="Us Virgin Islands"></country>
+</prayertimes>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<prayertimes>
+		<city name="Heard Island">
+			<state></state>
+			<latitude>-530896</latitude>
+			<longitude>735104</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+</prayertimes>

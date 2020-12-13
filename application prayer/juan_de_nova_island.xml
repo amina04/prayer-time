@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<prayertimes>
+		<city name="zaint Christophe">
+			<state></state>
+			<latitude>-170378</latitude>
+			<longitude>427622</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+</prayertimes>
